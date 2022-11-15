@@ -4,6 +4,8 @@ console.log(a)
 
 const b = a
 
+
+
 b.name = 'laura'
 
 console.log(a) 

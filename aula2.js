@@ -1,6 +1,6 @@
 //busca determinada palavra em uma frase
 let fraseEncontrar = "eu vou pra aula segunda";
-Boolean: frase = fraseEncontrar.includes("segunda");
+ frase = fraseEncontrar.includes("segunda");
 
 
 if(frase == true)

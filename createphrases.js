@@ -1,6 +1,7 @@
 function createlovephrases()
 {
-    let phrases = (
+    let phrases = 
+    (
         [{
             phrase: "Lutar pelo amor é bom, mas alcança-lo sem luta é melhor.",
             author: "William  Shakespeare.",
@@ -21,7 +22,7 @@ function createlovephrases()
         
         }]
 
-    );
+    )
  
     console.log(phrases[2]);
     

@@ -8,7 +8,7 @@ var car = {
     year: 1968,
     km: 500.000,
     color: "black",
-    isSubscribed: Boolean
+    isSubscribed: true
 
 
 }
@@ -19,7 +19,7 @@ var car = {
  
  
 console.log(typeof car);
-console.log(carBrand, color, km);
+console.log(car);
 
 var cars = [car];
 

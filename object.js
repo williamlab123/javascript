@@ -15,7 +15,7 @@ const prod2 =
     obj:
     {
         alo: 1,
-        objt:
+        obj:
         {
             alo:1,
             obj:
